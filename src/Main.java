@@ -5,7 +5,6 @@ public class Main {
         Scanner input=new Scanner(System.in);
         int a =input.nextInt();
         float b= input.nextFloat();
-        double c=a+b;
-        System.out.println(c);
+
     }
 }
